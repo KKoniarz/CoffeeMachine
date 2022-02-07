@@ -1,0 +1,29 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Java involves the use of a manual memory cleaning.
+- text: Java does not have memory cleaning mechanisms at all.
+- text: Java has a mechanism that cleans memory automatically.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3745#comment
+status: Solved
+feedback:
+  message: <html>Yes! Java tries to minimize manual memory management to avoid some
+    possible bugs.</html>
+  time: Sun, 23 Jan 2022 12:58:11 UTC
+record: -1
+selected_options:
+- 2

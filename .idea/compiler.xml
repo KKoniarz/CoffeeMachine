@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Coffee_Machine.Coffee_Machine-task-build-classes-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-reports-tests.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-test-results.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task-build-tmp.main" target="11" />
+      <module name="Coffee_Machine.Coffee_Machine-task.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Java-Hello_.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Java-Memory_cleaning.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Java-Running_a_program_on_different_platforms.main" target="11" />
+      <module name="Coffee_Machine.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Coffee_Machine.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Coffee_Machine.Topics-Printing_data-Stars.main" target="11" />
+      <module name="Coffee_Machine.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Coffee_Machine.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
